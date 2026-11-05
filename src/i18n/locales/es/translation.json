@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "program": "Programa",
+    "subjects": "Materias",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "cta": "Inscríbete"
+  },
+  "hero": {
+    "badge": "Preparación para la universidad",
+    "title": "Aprueba el examen de admisión y entra a la universidad que quieres",
+    "subtitle": "Clases diseñadas para bachilleres que buscan prepararse de forma efectiva para los exámenes de ingreso a la universidad.",
+    "ctaPrimary": "Empieza ahora",
+    "ctaSecondary": "Conoce el programa",
+    "statsStudents": "Estudiantes preparados",
+    "statsSubjects": "Materias cubiertas",
+    "statsSuccess": "Tasa de aprobación"
+  },
+  "features": {
+    "title": "¿Por qué prepararte con nosotros?",
+    "subtitle": "Todo lo que necesitas para llegar seguro al examen de admisión.",
+    "items": {
+      "teachers": {
+        "title": "Profesores especializados",
+        "description": "Clases guiadas por docentes con experiencia en exámenes de admisión universitaria."
+      },
+      "practice": {
+        "title": "Simulacros reales",
+        "description": "Practica con exámenes similares a los oficiales para llegar con confianza."
+      },
+      "flexible": {
+        "title": "Horarios flexibles",
+        "description": "Clases en vivo y grabadas para que estudies a tu propio ritmo."
+      },
+      "tracking": {
+        "title": "Seguimiento personalizado",
+        "description": "Monitoreamos tu avance y reforzamos tus puntos débiles."
+      }
+    }
+  },
+  "subjects": {
+    "title": "Materias que preparamos",
+    "subtitle": "Cubrimos las áreas más evaluadas en los exámenes de admisión.",
+    "items": {
+      "math": "Matemáticas",
+      "language": "Lenguaje y Comunicación",
+      "science": "Ciencias Naturales",
+      "social": "Ciencias Sociales",
+      "logic": "Razonamiento Lógico",
+      "english": "Inglés"
+    }
+  },
+  "testimonials": {
+    "title": "Estudiantes que ya lo lograron",
+    "subtitle": "Historias reales de quienes se prepararon con nosotros."
+  },
+  "cta": {
+    "title": "Tu examen de admisión empieza aquí",
+    "subtitle": "Reserva tu cupo y comienza a prepararte hoy mismo.",
+    "button": "Quiero inscribirme"
+  },
+  "footer": {
+    "description": "Clases de preparación para exámenes de admisión universitaria.",
+    "rights": "Todos los derechos reservados.",
+    "links": "Enlaces",
+    "contact": "Contacto"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe o fue movida.",
+    "backHome": "Volver al inicio"
+  }
+}

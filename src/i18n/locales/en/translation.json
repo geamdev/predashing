@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "program": "Program",
+    "subjects": "Subjects",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "cta": "Enroll now"
+  },
+  "hero": {
+    "badge": "University entrance prep",
+    "title": "Pass your entrance exam and get into the university you want",
+    "subtitle": "Classes designed for high school graduates who want to prepare effectively for university admission exams.",
+    "ctaPrimary": "Get started",
+    "ctaSecondary": "See the program",
+    "statsStudents": "Students prepared",
+    "statsSubjects": "Subjects covered",
+    "statsSuccess": "Pass rate"
+  },
+  "features": {
+    "title": "Why prepare with us?",
+    "subtitle": "Everything you need to confidently reach your admission exam.",
+    "items": {
+      "teachers": {
+        "title": "Specialized teachers",
+        "description": "Classes led by instructors experienced in university admission exams."
+      },
+      "practice": {
+        "title": "Real mock exams",
+        "description": "Practice with exams similar to the official ones to arrive with confidence."
+      },
+      "flexible": {
+        "title": "Flexible schedules",
+        "description": "Live and recorded classes so you can study at your own pace."
+      },
+      "tracking": {
+        "title": "Personalized tracking",
+        "description": "We monitor your progress and reinforce your weak points."
+      }
+    }
+  },
+  "subjects": {
+    "title": "Subjects we prepare",
+    "subtitle": "We cover the areas most evaluated in admission exams.",
+    "items": {
+      "math": "Mathematics",
+      "language": "Language & Communication",
+      "science": "Natural Sciences",
+      "social": "Social Sciences",
+      "logic": "Logical Reasoning",
+      "english": "English"
+    }
+  },
+  "testimonials": {
+    "title": "Students who already made it",
+    "subtitle": "Real stories from students who prepared with us."
+  },
+  "cta": {
+    "title": "Your admission exam starts here",
+    "subtitle": "Reserve your spot and start preparing today.",
+    "button": "I want to enroll"
+  },
+  "footer": {
+    "description": "Prep classes for university admission exams.",
+    "rights": "All rights reserved.",
+    "links": "Links",
+    "contact": "Contact"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist or was moved.",
+    "backHome": "Back to home"
+  }
+}
